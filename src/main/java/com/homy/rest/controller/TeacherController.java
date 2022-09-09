@@ -15,6 +15,7 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import com.homy.rest.dao.TeacherDAO;
 import com.homy.rest.model.Teacher;
 import com.homy.rest.model.Teachers;
+import  com.homy.rest.model.Item;
 
 //credit to Gotesh Kopla
 @RestController
